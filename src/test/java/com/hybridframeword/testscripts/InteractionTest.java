@@ -15,4 +15,10 @@ public class InteractionTest {
 	  Assert.assertTrue(false);
 	  
   }
+  @Test
+  public void transferInteraction(){
+	  System.out.println("transfer interaction");
+	  Assert.assertTrue(true);
+	  
+  }
 }
